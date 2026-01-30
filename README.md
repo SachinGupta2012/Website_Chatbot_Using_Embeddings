@@ -59,7 +59,10 @@ Switch to the Chat Interface tab to ask questions
   - High performance with ~500 tokens per second  
 - **JavaScript Rendering**: Toggle support for dynamic websites  
 - **Persistence**: Save and load FAISS index from disk  
-- **Conversation Memory**: Retains the last 5 chat exchanges 
+- **Conversation Memory**: Retains the last 5 chat exchanges
+
+## Streamlit App
+[Sreamlit App](https://web-chatbot-embedding.streamlit.app/)
 
 ## Screenshots
 ![image alt](https://github.com/SachinGupta2012/Website_Chatbot_Using_Embeddings/blob/e538eeecca52d364dc292648babf071768db7e80/screenshots/1.png)
